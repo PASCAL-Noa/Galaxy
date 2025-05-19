@@ -11,7 +11,7 @@ It’s a fun first step on my journey into game development with Python!
 ## 🛠️ Build the solution
 
 1. Clone the repository
-git clone https://github.com/your-username/mrbeat.git
+git clone https://github.com/PASCAL-Noa/Galaxy.git
 
 2. Go into the project folder
 cd mrbeat
